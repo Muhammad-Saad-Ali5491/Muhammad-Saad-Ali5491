@@ -39,6 +39,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/ios-filled/50/800080/github.png" height="30" alt="GitHub Purple logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="20" style="background-color:white; padding:4px; border-radius:6px;" alt="Flask logo" />
+  <img width="12" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="20" alt="Streamlit mark" />
+  <img width="12" />
+
+
+
 </div>
 
 ###
