@@ -1,5 +1,9 @@
+<h1 align="center"> Muhammad Saad — 🤖AI/ML Engineer | Agent Designer <br/> 🧑‍💻Software Developer</h1>
+
 # 💫 About Me:
-🔭 I’m currently studing on AI/ML<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=00FFD2&width=440&lines=%F0%9F%94%AD+I%E2%80%99m+currently+studying+AI%2FML;%F0%9F%8C%B1+Learning+new+tech+daily;%F0%9F%92%AA+Focused+on+Code%2C+Design%2C+Deploy%2C+Repeat" alt="Typing SVG" />
+</p>
 
 
 # 💻 Tech Stack:
@@ -55,25 +59,60 @@
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Saad-Ali5491&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Saad-Ali5491&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <span style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Saad-Ali5491&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  </span>
+  <span style="margin-right: 10px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Saad-Ali5491&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  </span>
+</p>
+
+<p align="center">
+ <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Saad-Ali5491&theme=nightowl&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Saad-Ali5491&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Saad-Ali5491&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 
 ---
-###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJsanJycXM1bXhxOXY3amw1aXhyNGFub2s5c3BoazM5aXc0cnJldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nc2slkPLPdpmWeCUZc/giphy.gif"  />
-</div>
+### 🧠 Currently Grinding
 
-###
+- 🧪 Kaggle + hugging face `Dataset construction and design`
+- 🤖 Tensorflow + Pytorch + Scikit learn
+- 🌐 Wordpress + Figma + HTML/CSS/JAVA
+-     Real time calculation + deployment `streamlit-run`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Saad-Ali5491&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-saad-ali-36b036250" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saadali6809@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Saad-Ali5491&label=Profile+Views&color=00FFD2&style=flat-square" alt="Profile views" />
+</p>
