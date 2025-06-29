@@ -60,10 +60,10 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <span style="margin-right: 10px;">
+  <span style="margin-right: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Saad-Ali5491&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
   </span>
-  <span style="margin-right: 10px;">
+  <span style="margin-right: 5px;">
     <img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Saad-Ali5491&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   </span>
 </p>
