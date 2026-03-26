@@ -6,33 +6,35 @@
 </p>
 
 
-# 💻 Tech Stack:
-<div align="center">
+# 💻 Tech Stack
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/docs/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/api_docs)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/documentation.html)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)](https://docs.scipy.org/doc/scipy/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=blue)](https://docs.opencv.org/)
-[![Pygame](https://img.shields.io/badge/pygame-%23000000.svg?style=for-the-badge&logo=pygame&logoColor=white)](https://www.pygame.org/docs/)
-[![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logoColor=white)](https://docs.langchain.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/docs)
-[![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://docs.arduino.cc/)
-[![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://www.cisco.com/c/en/us/support/index.html)
-[![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)](https://www.mathworks.com/help/matlab/)
-[![Overleaf](https://img.shields.io/badge/Overleaf-%2300C881.svg?style=for-the-badge&logo=Overleaf&logoColor=white)](https://www.overleaf.com/learn)
-[![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://developer.wordpress.org/)
+<div align="left">
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-111?style=flat\&logo=python)
+![C++](https://img.shields.io/badge/C++-111?style=flat\&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-111?style=flat\&logo=csharp)
+
+**AI / ML:**
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=flat\&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=flat\&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111?style=flat\&logo=scikitlearn)
+![LangChain](https://img.shields.io/badge/LangChain-111)
+![OpenAI](https://img.shields.io/badge/OpenAI-111?logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-111?logo=google)
+
+**Data:**
+![NumPy](https://img.shields.io/badge/NumPy-111?style=flat\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-111?style=flat\&logo=pandas)
+![SciPy](https://img.shields.io/badge/SciPy-111?style=flat\&logo=scipy)
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-111?style=flat\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=flat\&logo=github)
+![Jira](https://img.shields.io/badge/Jira-111?style=flat\&logo=jira)
 
 </div>
+
 
 # 📊 GitHub Stats:
 <p align="center">
