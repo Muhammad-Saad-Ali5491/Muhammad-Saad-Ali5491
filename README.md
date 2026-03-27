@@ -11,27 +11,22 @@
 
 <div align="left">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
+**Languages :** ![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C++-111?style=flat&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-111?style=flat&logo=csharp)
 
-**AI / ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-111?style=flat&logo=pytorch)
+**AI / ML :**  ![PyTorch](https://img.shields.io/badge/PyTorch-111?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=flat&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111?style=flat&logo=scikitlearn)
 ![LangChain](https://img.shields.io/badge/LangChain-111)
 ![OpenAI](https://img.shields.io/badge/OpenAI-111?logo=openai)
 ![Gemini](https://img.shields.io/badge/Gemini-111?logo=google)
 
-**Data**  
-![NumPy](https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy)
+**Data :**  ![NumPy](https://img.shields.io/badge/NumPy-111?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111?style=flat&logo=pandas)
 ![SciPy](https://img.shields.io/badge/SciPy-111?style=flat&logo=scipy)
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
+**Tools :**  ![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github)
 ![Jira](https://img.shields.io/badge/Jira-111?style=flat&logo=jira)
 ![VS Code](https://img.shields.io/badge/VS%20Code-111?style=flat&logo=visualstudiocode)
