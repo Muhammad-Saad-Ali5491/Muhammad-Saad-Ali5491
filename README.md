@@ -48,10 +48,9 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Saad-Ali5491&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Saad-Ali5491&theme=radical&margin-w=4" />
+</div>
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
