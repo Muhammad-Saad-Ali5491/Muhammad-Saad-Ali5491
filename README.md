@@ -18,6 +18,9 @@ I design and deploy production-grade AI backends, Retrieval-Augmented Generation
 - High-performance RAG pipelines
 - FastAPI microservices
 - Agentic workflows
+- Multi-agent pipelines
+- Multilingual LLM Applications
+- Multimodal AI (Vision + Language)
 
 **Academic Background**
 - B.S. Computer Science — 3.60 CGPA
@@ -79,3 +82,4 @@ I design and deploy production-grade AI backends, Retrieval-Augmented Generation
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Saad-Ali5491&label=profile+views&color=7F77DD&style=flat" />
 </p>
+
