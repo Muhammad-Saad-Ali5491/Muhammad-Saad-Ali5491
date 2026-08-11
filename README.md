@@ -60,9 +60,7 @@ I design and deploy production-grade AI backends, Retrieval-Augmented Generation
 
 
 ---
-<p align="center">
-  <img src="[https://streak-stats.demolab.com?user=Muhammad-Saad-Ali5491&hide_border=true&background=00000000&ring=7F77DD&fire=AFA9EC&currStreakLabel=534AB7&sideLabels=888780&dates=888780&currStreakNum=3C3489&sideNums=3C3489](https://github-readme-streak-stats-eight.vercel.app?user=Muhammad-Saad-Ali5491&hide_border=true&background=00000000&ring=7F77DD&fire=AFA9EC&currStreakLabel=534AB7&sideLabels=888780&dates=888780&currStreakNum=3C3489&sideNums=3C3489)" height="180"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Saad-Ali5491&bg_color=00000000&color=534AB7&line=7F77DD&point=3C3489&area_color=EEEDFE&area=true&hide_border=true" />
 </p>
