@@ -1,6 +1,6 @@
-<h1 align="center">Muhammad Saad</h1>
+<h1 align="center">Muhammad Saad Ali</h1>
 <p align="center">
-  <sub>AI/ML Engineer &nbsp;·&nbsp; Agent Designer &nbsp;·&nbsp; Software Developer</sub>
+  <sub>AI/ML Engineering Specialist & Python Backend Architect &nbsp;·&nbsp; Agent Designer &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp;  Global Hackathon Winner</sub>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1400&color=7F77DD&center=true&vCenter=true&width=480&lines=Building+intelligent+systems+and+agents;PyTorch+%C2%B7+TensorFlow+%C2%B7+LangChain;Exploring+the+frontier+of+applied+AI" alt="Typing SVG" />
@@ -10,12 +10,26 @@
 
 ### About me
 
--  I think in agents, pipelines, and inference loops — always
--  Green tea + a whiteboard — best debugging combo
--  Started with C++ game dev, migrated to AI systems
--  Big belief: LLMs are tools — good system design makes them powerful
--  Night owl — most of my best commits happen after midnight
--  Currently reading: *Atomic Habits* — again, slowly
+**AI Backend Engineer | RAG Architectures | Agentic Workflows**
+
+I design and deploy production-grade AI backends, Retrieval-Augmented Generation (RAG) architectures, and autonomous agent workflows — building robust Python systems that bridge state-of-the-art LLM capabilities with clean, maintainable software architecture.
+
+**Primary Focus**
+- High-performance RAG pipelines
+- FastAPI microservices
+- Agentic workflows
+
+**Academic Background**
+- B.S. Computer Science — 3.60 CGPA
+
+**Certifications**
+- NAVTTC Certified — Advanced AI & Python Backend Development
+- NVIDIA Certified — Networking and Infrastructure
+
+**Achievements**
+- 2× Hackathon Winner
+- 2nd Place — Qwen AI Buildathon
+
 ---
 
 **Languages &nbsp;·&nbsp;**
@@ -51,9 +65,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Saad-Ali5491&bg_color=00000000&color=534AB7&line=7F77DD&point=3C3489&area_color=EEEDFE&area=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Saad-Ali5491&theme=flat&margin-w=4&no-bg=true&no-frame=true&column=6" />
 </p>
 
 ---
