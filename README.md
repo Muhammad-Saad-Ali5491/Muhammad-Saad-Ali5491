@@ -34,7 +34,6 @@ I design and deploy production-grade AI backends, Retrieval-Augmented Generation
 - 2nd Place — Qwen AI Buildathon
 
 ---
-
 **Languages &nbsp;·&nbsp;**
 ![Python](https://img.shields.io/badge/Python-EEEDFE?style=flat&logo=python&logoColor=3C3489&color=EEEDFE)
 ![C++](https://img.shields.io/badge/C++-EEEDFE?style=flat&logo=cplusplus&logoColor=3C3489&color=EEEDFE)
@@ -44,9 +43,22 @@ I design and deploy production-grade AI backends, Retrieval-Augmented Generation
 ![PyTorch](https://img.shields.io/badge/PyTorch-EEEDFE?style=flat&logo=pytorch&logoColor=3C3489&color=EEEDFE)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-EEEDFE?style=flat&logo=tensorflow&logoColor=3C3489&color=EEEDFE)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-EEEDFE?style=flat&logo=scikitlearn&logoColor=3C3489&color=EEEDFE)
-![LangChain](https://img.shields.io/badge/LangChain-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
 ![OpenAI](https://img.shields.io/badge/OpenAI-EEEDFE?style=flat&logo=openai&logoColor=3C3489&color=EEEDFE)
 ![Gemini](https://img.shields.io/badge/Gemini-EEEDFE?style=flat&logo=google&logoColor=3C3489&color=EEEDFE)
+
+**LLM / RAG &nbsp;·&nbsp;**
+![LangChain](https://img.shields.io/badge/LangChain-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
+![Vector Databases](https://img.shields.io/badge/Vector%20DBs%20(ChromaDB%20%2F%20FAISS)-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
+![Function Calling](https://img.shields.io/badge/Function%20Calling%20%26%20Tool%20Use-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
+
+**Computer Vision &nbsp;·&nbsp;**
+![OpenCV](https://img.shields.io/badge/OpenCV-EEEDFE?style=flat&logo=opencv&logoColor=3C3489&color=EEEDFE)
+![YOLO](https://img.shields.io/badge/YOLO-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
+![Lenet](https://img.shields.io/badge/Lenet-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-EEEDFE?style=flat&logo=mediapipe&logoColor=3C3489&color=EEEDFE)
+![Pillow](https://img.shields.io/badge/Pillow-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
 
 **Data &nbsp;·&nbsp;**
 ![NumPy](https://img.shields.io/badge/NumPy-EEEDFE?style=flat&logo=numpy&logoColor=3C3489&color=EEEDFE)
@@ -61,6 +73,10 @@ I design and deploy production-grade AI backends, Retrieval-Augmented Generation
 ![Jira](https://img.shields.io/badge/Jira-EEEDFE?style=flat&logo=jira&logoColor=3C3489&color=EEEDFE)
 ![MATLAB](https://img.shields.io/badge/MATLAB-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
 
+**AI-Assisted Dev &nbsp;·&nbsp;**
+![Claude Code](https://img.shields.io/badge/Claude%20Code-EEEDFE?style=flat&logo=claude&logoColor=3C3489&color=EEEDFE)
+![Cursor](https://img.shields.io/badge/Cursor-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
+![Antigravity](https://img.shields.io/badge/Antigravity-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
 
 ---
 
