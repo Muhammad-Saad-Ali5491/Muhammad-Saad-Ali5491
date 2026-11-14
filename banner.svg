@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Muhammad Saad Ali, AI/ML Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3C3489"/>
+      <stop offset="0.55" stop-color="#534AB7"/>
+      <stop offset="1" stop-color="#7F77DD"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="0" y="140" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;1200;1200;0;0" keyTimes="0;0.1;0.3;0.301;1"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="140" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;1200;1200;0;0" keyTimes="0;0.3333;0.4333;0.6333;0.6343;1"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="140" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;1200;1200;0;0" keyTimes="0;0.6667;0.7667;0.9667;0.9677;1"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect width="1200" height="240" rx="14" fill="url(#bg)"/>
+
+  <!-- soft background circles -->
+  <circle cx="1060" cy="40" r="150" fill="#ffffff" opacity="0.06"/>
+  <circle cx="90" cy="230" r="90" fill="#ffffff" opacity="0.05"/>
+
+  <!-- name and title -->
+  <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Muhammad Saad Ali</text>
+  <text x="600" y="126" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#EEEDFE">AI/ML Engineer  ·  LLM &amp; RAG Systems  ·  Python Backend</text>
+
+  <!-- typing lines (revealed left to right, one after another) -->
+  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="20" fill="#CECBF6" text-anchor="middle">
+    <text x="600" y="167" clip-path="url(#c1)">Building RAG systems and AI agents</text>
+    <text x="600" y="167" clip-path="url(#c2)">LangGraph  ·  FastAPI  ·  PostgreSQL</text>
+    <text x="600" y="167" clip-path="url(#c3)">2x Hackathon Winner  ·  2nd place, Qwen AI Buildathon</text>
+  </g>
+
+  <!-- moving waves -->
+  <path fill="#ffffff" opacity="0.10" d="M0 205 Q150 185 300 205 T600 205 T900 205 T1200 205 T1500 205 T1800 205 T2100 205 T2400 205 V240 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#ffffff" opacity="0.14" d="M0 215 Q150 235 300 215 T600 215 T900 215 T1200 215 T1500 215 T1800 215 T2100 215 T2400 215 V240 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
