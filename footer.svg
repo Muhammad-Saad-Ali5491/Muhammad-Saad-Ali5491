@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Open to AI/ML, LLM and Python backend roles">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#3C3489"/>
+      <stop offset="0.55" stop-color="#534AB7"/>
+      <stop offset="1" stop-color="#7F77DD"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="0" y="105" height="40" width="0">
+      <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;1200;1200;0;0" keyTimes="0;0.13;0.45;0.451;1"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="105" height="40" width="0">
+      <animate attributeName="width" dur="9s" repeatCount="indefinite" values="0;0;1200;1200;0;0" keyTimes="0;0.5;0.63;0.95;0.951;1"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect width="1200" height="200" rx="14" fill="url(#bg)"/>
+
+  <circle cx="140" cy="170" r="120" fill="#ffffff" opacity="0.06"/>
+  <circle cx="1080" cy="150" r="140" fill="#ffffff" opacity="0.05"/>
+
+  <!-- moving waves along the top edge -->
+  <path fill="#ffffff" opacity="0.10" d="M0 0 H2400 V35 Q2250 55 2100 35 T1800 35 T1500 35 T1200 35 T900 35 T600 35 T300 35 T0 35 Z">
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#ffffff" opacity="0.14" d="M0 0 H2400 V25 Q2250 5 2100 25 T1800 25 T1500 25 T1200 25 T900 25 T600 25 T300 25 T0 25 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Open to AI/ML, LLM &amp; Python Backend roles</text>
+
+  <g font-family="Consolas, Menlo, 'Courier New', monospace" font-size="20" fill="#CECBF6" text-anchor="middle">
+    <text x="600" y="132" clip-path="url(#c1)">Let's build something reliable together</text>
+    <text x="600" y="132" clip-path="url(#c2)">saadali6809@gmail.com</text>
+  </g>
+
+  <text x="600" y="176" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#EEEDFE" opacity="0.85">Lahore, Pakistan  ·  Thanks for stopping by</text>
+</svg>
