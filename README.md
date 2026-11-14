@@ -1,8 +1,6 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:7F77DD&height=180&section=header&text=Muhammad%20Saad%20Ali&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%26%20RAG%20Systems%20%C2%B7%20Python%20Backend&descAlignY=60&descSize=15" width="100%" alt="Muhammad Saad Ali banner" />
-
+<!-- Banner (self-hosted: banner.svg must be in the same repo) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1400&color=7F77DD&center=true&vCenter=true&width=520&lines=Building+RAG+systems+and+AI+agents;LangGraph+%C2%B7+FastAPI+%C2%B7+PostgreSQL;2x+Hackathon+Winner" alt="Typing SVG" />
+  <img src="banner.svg" width="100%" alt="Muhammad Saad Ali, AI/ML Engineer" />
 </p>
 
 <p align="center">
@@ -118,5 +116,3 @@ NAVTTC Advanced AI &amp; Python Backend Development · NVIDIA DLI: AI Infrastruc
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Saad-Ali5491&show_icons=true&theme=transparent&title_color=7F77DD&icon_color=7F77DD&text_color=8b949e&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Saad-Ali5491&layout=compact&theme=transparent&title_color=7F77DD&text_color=8b949e&hide_border=true" alt="Top languages" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=90&section=footer" width="100%" alt="" />
