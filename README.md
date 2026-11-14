@@ -1,101 +1,122 @@
-<h1 align="center">Muhammad Saad Ali</h1>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:7F77DD&height=180&section=header&text=Muhammad%20Saad%20Ali&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%26%20RAG%20Systems%20%C2%B7%20Python%20Backend&descAlignY=60&descSize=15" width="100%" alt="Muhammad Saad Ali banner" />
+
 <p align="center">
-  <sub>AI/ML Engineering Specialist & Python Backend Architect &nbsp;·&nbsp; Agent Designer &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp;  Global Hackathon Winner</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1400&color=7F77DD&center=true&vCenter=true&width=520&lines=Building+RAG+systems+and+AI+agents;LangGraph+%C2%B7+FastAPI+%C2%B7+PostgreSQL;2x+Hackathon+Winner" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1400&color=7F77DD&center=true&vCenter=true&width=480&lines=Building+intelligent+systems+and+agents;PyTorch+%C2%B7+TensorFlow+%C2%B7+LangChain;Exploring+the+frontier+of+applied+AI" alt="Typing SVG" />
-</p>
-
----
-
-### About me
-
-**AI Backend Engineer | RAG Architectures | Agentic Workflows**
-
-I design and deploy production-grade AI backends, Retrieval-Augmented Generation (RAG) architectures, and autonomous agent workflows — building robust Python systems that bridge state-of-the-art LLM capabilities with clean, maintainable software architecture.
-
-**Primary Focus**
-- High-performance RAG pipelines
-- FastAPI microservices
-- Agentic workflows
-- Multi-agent pipelines
-- Multilingual LLM Applications
-- Multimodal AI (Vision + Language)
-
-**Academic Background**
-- B.S. Computer Science — 3.60 CGPA
-
-**Certifications**
-- NAVTTC Certified — Advanced AI & Python Backend Development
-- NVIDIA Certified — Networking and Infrastructure
-
-**Achievements**
-- 2× Hackathon Winner
-- 2nd Place — Qwen AI Buildathon
-
----
-**Languages &nbsp;·&nbsp;**
-![Python](https://img.shields.io/badge/Python-EEEDFE?style=flat&logo=python&logoColor=3C3489&color=EEEDFE)
-![C++](https://img.shields.io/badge/C++-EEEDFE?style=flat&logo=cplusplus&logoColor=3C3489&color=EEEDFE)
-![C#](https://img.shields.io/badge/C%23-EEEDFE?style=flat&logo=csharp&logoColor=3C3489&color=EEEDFE)
-
-**AI / ML &nbsp;·&nbsp;**
-![PyTorch](https://img.shields.io/badge/PyTorch-EEEDFE?style=flat&logo=pytorch&logoColor=3C3489&color=EEEDFE)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-EEEDFE?style=flat&logo=tensorflow&logoColor=3C3489&color=EEEDFE)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-EEEDFE?style=flat&logo=scikitlearn&logoColor=3C3489&color=EEEDFE)
-![OpenAI](https://img.shields.io/badge/OpenAI-EEEDFE?style=flat&logo=openai&logoColor=3C3489&color=EEEDFE)
-![Gemini](https://img.shields.io/badge/Gemini-EEEDFE?style=flat&logo=google&logoColor=3C3489&color=EEEDFE)
-
-**LLM / RAG &nbsp;·&nbsp;**
-![LangChain](https://img.shields.io/badge/LangChain-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-![Vector Databases](https://img.shields.io/badge/Vector%20DBs%20(ChromaDB%20%2F%20FAISS)-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-![Function Calling](https://img.shields.io/badge/Function%20Calling%20%26%20Tool%20Use-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-
-**Computer Vision &nbsp;·&nbsp;**
-![OpenCV](https://img.shields.io/badge/OpenCV-EEEDFE?style=flat&logo=opencv&logoColor=3C3489&color=EEEDFE)
-![YOLO](https://img.shields.io/badge/YOLO-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-![Lenet](https://img.shields.io/badge/Lenet-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-EEEDFE?style=flat&logo=mediapipe&logoColor=3C3489&color=EEEDFE)
-![Pillow](https://img.shields.io/badge/Pillow-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-
-**Data &nbsp;·&nbsp;**
-![NumPy](https://img.shields.io/badge/NumPy-EEEDFE?style=flat&logo=numpy&logoColor=3C3489&color=EEEDFE)
-![Pandas](https://img.shields.io/badge/Pandas-EEEDFE?style=flat&logo=pandas&logoColor=3C3489&color=EEEDFE)
-![SciPy](https://img.shields.io/badge/SciPy-EEEDFE?style=flat&logo=scipy&logoColor=3C3489&color=EEEDFE)
-
-**Tools &nbsp;·&nbsp;**
-![Git](https://img.shields.io/badge/Git-EEEDFE?style=flat&logo=git&logoColor=3C3489&color=EEEDFE)
-![GitHub](https://img.shields.io/badge/GitHub-EEEDFE?style=flat&logo=github&logoColor=3C3489&color=EEEDFE)
-![VS Code](https://img.shields.io/badge/VS%20Code-EEEDFE?style=flat&logo=visualstudiocode&logoColor=3C3489&color=EEEDFE)
-![Jupyter](https://img.shields.io/badge/Jupyter-EEEDFE?style=flat&logo=jupyter&logoColor=3C3489&color=EEEDFE)
-![Jira](https://img.shields.io/badge/Jira-EEEDFE?style=flat&logo=jira&logoColor=3C3489&color=EEEDFE)
-![MATLAB](https://img.shields.io/badge/MATLAB-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-
-**AI-Assisted Dev &nbsp;·&nbsp;**
-![Claude Code](https://img.shields.io/badge/Claude%20Code-EEEDFE?style=flat&logo=claude&logoColor=3C3489&color=EEEDFE)
-![Cursor](https://img.shields.io/badge/Cursor-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-![Antigravity](https://img.shields.io/badge/Antigravity-EEEDFE?style=flat&color=EEEDFE&logoColor=3C3489)
-
----
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Saad-Ali5491&bg_color=00000000&color=534AB7&line=7F77DD&point=3C3489&area_color=EEEDFE&area=true&hide_border=true" />
+  <a href="https://www.linkedin.com/in/muhammad-saad-ali-36b036250"><img src="https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:saadali6809@gmail.com"><img src="https://img.shields.io/badge/Email-534AB7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-7F77DD?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
 
+## 👋 About
+
+I build LLM applications that hold up outside a demo: **RAG pipelines**, **tool-calling agents**, and **FastAPI + PostgreSQL backends** with the guardrails, tests and logging that make them safe to deploy.
+
+BSc Computer Science (UMT Lahore, 3.60 CGPA) · 4 internships · 2× hackathon winner, including **2nd place at the Qwen AI Buildathon**.
+
+## 🛠️ What I've built
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Biblobot** | RAG chatbot over full-length books with hybrid search and reranking for grounded answers | `Python` `Chroma` `FAISS` `LangChain` |
+| **StockTalk** | Text-to-SQL inventory agent with JWT role-based access, blocked destructive SQL and row limits | `LangGraph` `FastAPI` `PostgreSQL` |
+| **AI Shopping Assistant** | 7 specialised agents (search, pricing, recommendations) covered by 43 automated tests | `Groq` `FastAPI` `PostgreSQL` |
+| **AQI Forecasting** | 3-day air quality forecasts for 8 Pakistani cities on serverless GCP, with SHAP explainability | `GCP` `Hopsworks` `XGBoost` `Streamlit` |
+| **Pukaar** 🏆 | Anonymous voice whistleblower platform in Urdu, Roman-Urdu and English (5-hour hackathon build) | `FastAPI` `Supabase` `Next.js` |
+
+<!-- Add a repo or demo link to each project name, e.g. **[Biblobot](https://github.com/Muhammad-Saad-Ali5491/REPO)** -->
+
+## 🧰 Tech stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-534AB7?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-534AB7?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-534AB7?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-534AB7?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-534AB7?style=flat-square&logo=csharp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLM &amp; Agents</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangGraph-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/LlamaIndex-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chroma%20%7C%20FAISS-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tool%20Calling-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-7F77DD?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-7F77DD?style=flat-square&logo=googlegemini&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-534AB7?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-534AB7?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-534AB7?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-534AB7?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-534AB7?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/GCP-534AB7?style=flat-square&logo=googlecloud&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML &amp; Vision</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-7F77DD?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-7F77DD?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-7F77DD?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/XGBoost-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-7F77DD?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-7F77DD?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-534AB7?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-534AB7?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-534AB7?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-534AB7?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-534AB7?style=flat-square&logo=jira&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI-assisted dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude%20Code-7F77DD?style=flat-square&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cursor-7F77DD?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Antigravity-7F77DD?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+## 💼 Experience
+
+- **AI/ML Intern**, NeuroOceans AI (2026 – present): RAG, agents and Text-to-SQL systems, deployed with Docker
+- **Founding Team Member (AI Engineer)**, Sunao OS (2026 – present): dementia severity estimation from speech audio
+- **Data Science Intern**, 10Pearls (2026): end-to-end AQI forecasting on serverless GCP
+- **AI/ML Intern**, Netsol Technologies (2026): computer vision and NLP models
+
+## 🎓 Education &amp; certifications
+
+BSc Computer Science, University of Management &amp; Technology (UMT), Lahore · 3.60 CGPA
+NAVTTC Advanced AI &amp; Python Backend Development · NVIDIA DLI: AI Infrastructure &amp; Operations
+
+## 📊 GitHub stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-saad-ali-36b036250">
-    <img src="https://img.shields.io/badge/LinkedIn-EEEDFE?style=for-the-badge&logo=linkedin&logoColor=3C3489&color=EEEDFE" />
-  </a>
-  &nbsp;
-  <a href="mailto:saadali6809@gmail.com">
-    <img src="https://img.shields.io/badge/saadali6809%40gmail.com-EEEDFE?style=for-the-badge&logo=gmail&logoColor=3C3489&color=EEEDFE" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Saad-Ali5491&label=profile+views&color=7F77DD&style=flat" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Saad-Ali5491&show_icons=true&theme=transparent&title_color=7F77DD&icon_color=7F77DD&text_color=8b949e&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Saad-Ali5491&layout=compact&theme=transparent&title_color=7F77DD&text_color=8b949e&hide_border=true" alt="Top languages" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=90&section=footer" width="100%" alt="" />
