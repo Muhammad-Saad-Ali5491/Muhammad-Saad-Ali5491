@@ -109,10 +109,3 @@ BSc Computer Science (UMT Lahore, 3.60 CGPA) · 4 internships · 2× hackathon w
 
 BSc Computer Science, University of Management &amp; Technology (UMT), Lahore · 3.60 CGPA
 NAVTTC Advanced AI &amp; Python Backend Development · NVIDIA DLI: AI Infrastructure &amp; Operations
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Saad-Ali5491&show_icons=true&theme=transparent&title_color=7F77DD&icon_color=7F77DD&text_color=8b949e&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Saad-Ali5491&layout=compact&theme=transparent&title_color=7F77DD&text_color=8b949e&hide_border=true" alt="Top languages" />
-</p>
